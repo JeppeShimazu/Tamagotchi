@@ -65,6 +65,24 @@ public void ReduceBoredom()
     }
   }
 
+ public void Tick()
+  {
+    hunger++;
+    boredom++;
+    if (hunger > 10 || boredom > 10)
+    {
+      isLiving = false;
+    }
+  }
+
+public bool GetDead()
+{
+    if (hunger > 9)
+    {   
+        return true;
+    }
+    return false;
+}
 
 }
 

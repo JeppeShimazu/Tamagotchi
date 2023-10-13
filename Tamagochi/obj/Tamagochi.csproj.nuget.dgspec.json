@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\Tamagochi.csproj": {}
+    "C:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\Tamagochi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\Tamagochi.csproj": {
+    "C:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\Tamagochi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\Tamagochi.csproj",
+        "projectUniqueName": "C:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\Tamagochi.csproj",
         "projectName": "Tamagochi",
-        "projectPath": "c:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\Tamagochi.csproj",
+        "projectPath": "C:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\Tamagochi.csproj",
         "packagesPath": "C:\\Users\\jesper.asplund\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\obj\\",
+        "outputPath": "C:\\Users\\jesper.asplund\\Desktop\\Visual Studio Projects\\Tamagotchi\\Tamagochi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

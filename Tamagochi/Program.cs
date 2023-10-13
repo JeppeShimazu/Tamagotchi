@@ -25,8 +25,10 @@ string doWhat = Console.ReadLine();
   {
     Console.WriteLine($"Vilket ord vill du lära {myTiger.name}?");
     string word = Console.ReadLine();
+    //Console.WriteLine($"{myTiger.name} har lärt sig {word}!");
     myTiger.Lär(word);
   }
+
   if (doWhat == "2")
   {
     myTiger.Hej();
@@ -35,14 +37,21 @@ string doWhat = Console.ReadLine();
   {
     myTiger.Mata();
   }
-  else
+  if (doWhat == "4")
   {
     Console.WriteLine("Gör ingenting.");
   }
+//if (hunger > 9) 
+
+  Console.ReadLine();
   myTiger.Tick();
-  
+
 }
 
+if (myTiger.GetDead())
+{
 Console.WriteLine($"NEEEEEEEJ! {myTiger.name} har dött!!!!!!");
 Console.WriteLine("Klicka ENTER för att lämna... :(");
+}
+
 Console.ReadLine();
